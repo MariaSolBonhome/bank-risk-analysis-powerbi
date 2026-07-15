@@ -47,11 +47,11 @@ The report is structured in two pages:
 ![Statistical Analysis & Projection](dashboard_page2.png)
 
 **Statistical diagnosis:**
-- Mean balance (€1,374) is nearly 3x the median (€448), indicating right skew driven by a small group of high-balance customers
-- The histogram reveals that most customers hold balances between €0–€500, with a long tail of high-balance outliers (>€10,000)
+- Mean balance (€1 374) is nearly 3x the median (€448), indicating right skew driven by a small group of high-balance customers
+- The histogram reveals that most customers hold balances between €0 – €500, with a long tail of high-balance outliers (>€10,000)
 
 **Trend & Forecast:**
-- Contact volume shows a declining trend after a strong peak in May (~13,800 contacts)
+- Contact volume shows a declining trend after a strong peak in May
 - A 3-month forecast projects continued decrease in campaign activity
 
 > **Note:** The dataset covers a single annual campaign cycle (12 monthly data points, no year column). This limits forecast precision; in a real-world scenario with more than one year data, the projection would be more robust with a visible confidence band.
